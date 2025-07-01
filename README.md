@@ -2,16 +2,14 @@
 
 ## 🚀 About Me:
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 - 🔭 I’m Front-End Developer and Ux/Ui Designe
 - 👨‍🎓 I’m currently studying at Instituto ISIL.
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about anything, I love to answer!
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cristian-braco-garagundo/) 🏆.
 
-<br>
 <br>
 
 ## 🌐 Socials:
