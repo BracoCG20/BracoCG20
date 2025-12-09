@@ -19,7 +19,7 @@
 ## 📊 &nbsp;GitHub Stats:
 <div align="center"> 
   <a href="https://github.com/BracoCG20">
-    <img width=450 height=170 align="center" alt="BracoCG20" src="https://github-readme-stats.vercel.app/api?username=BracoCG20&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=BracoCG20&show_icons=true&theme=gotham"/>
   </a>
   <a href="https://github.com/BracoCG20">
     <img align="center" alt="BracoCG20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BracoCG20&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
