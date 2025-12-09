@@ -20,7 +20,7 @@
 <div align="center"> 
   <a href="https://github.com/BracoCG20">
     <img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=BracoCG20&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=BracoCG20&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=BracoCG20&show_icons=true&theme=gotham&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
   </a>
   
 </div>
